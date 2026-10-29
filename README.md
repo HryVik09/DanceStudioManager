@@ -30,3 +30,11 @@ Projekt realizowany jest w ramach nauki programowania. Jego celem jest rozwijani
 ## Status projektu
 
 Projekt jest na etapie przygotowania dokumentacji i planowania kolejnych etapów realizacji.
+
+
+## Organizacja pracy
+
+Projekt jest planowany i realizowany przy użyciu Trello.
+
+**Tablica Trello:** [DanceStudio Manager](https://trello.com/b/tcxd3Plt/dancestudio-manager)
+
